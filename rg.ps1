@@ -1,0 +1,1 @@
+new-azresourcegroup -name rgpower -location east us
