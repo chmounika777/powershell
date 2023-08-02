@@ -1,1 +1,1 @@
-new-azresourcegroup -name rgpower -location eastus
+New-AzResourceGroup -Name naren12 -Location southcentralus
