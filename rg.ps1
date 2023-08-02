@@ -1,1 +1,1 @@
-New-AzResourceGroup -Name naren12 -Location southcentralus
+NEW-AZresourcegroup -Name naren12 -Location eastus
