@@ -1,2 +1,1 @@
-NEW-AZresourcegroup -Name naren12 -Location eastus
-$LASTEXITCODE
+NEW-AZresourcegroup -Name naren12 -Location "east us"
